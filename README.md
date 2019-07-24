@@ -1,4 +1,4 @@
-[![Build status](http://localhost/api/projects/status/yvubrg6uhs8g2ov2?svg=true)](http://localhost/project/AppVeyor/random-password-generator)
+[![Build status](https://appveyor.gucu.org/api/projects/status/oax4p8vvwuc8dy4t?svg=true)](https://appveyor.gucu.org/project/AppVeyor/random-password-generator)
 
 # PowerShell Random Password Generator
 A Random Password Generator Written in PowerShell!
